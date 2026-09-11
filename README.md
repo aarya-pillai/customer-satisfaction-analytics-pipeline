@@ -175,16 +175,13 @@ However, the difference in customer satisfaction was comparatively modest.
 The final Power BI report contains **two primary pages and a seller drill-through page**.
 
 ### 1. Customer Satisfaction Overview
-### 2. Operational Drivers
-### 3. Seller Drill-through
-
----
-
-## Dashboard Preview
-
 ![Customer Satisfaction Overview](images/Executive%20Page.jpg)
+### 2. Operational Drivers
 ![Operational Drivers](images/Operational%20Drivers%20Page.jpg)
+### 3. Seller Drill-through
 ![Seller Drill-through](images/Seller%20Drill-through%20Page.jpg)
+
+🔗 **[View the Interactive Power BI Dashboard](https://app.powerbi.com/reportEmbed?reportId=16e4f7a7-71ba-47db-a480-66a3e79b7d81&autoAuth=true&ctid=41f88ecb-ca63-404d-97dd-ab0a169fd138)**
 
 ---
 
