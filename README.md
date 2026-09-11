@@ -12,6 +12,13 @@ The idea for this project actually came from a personal online shopping experien
 A few days later, the replacement arrived. And then a few days after that, somehow, the original “lost” package showed up too?! What started as a frustrating delivery experience ended with me being extremely satisfied, despite the fulfillment process itself going completely wrong. Suddenly the experience I was ready to rate horribly didn't feel so horrible anymore.
 
 That change in my own satisfaction made me curious about what actually drives customer satisfaction in an e-commerce experience, and which operational factors have the biggest impact on it. And that's where this project started.
+
+And yes, it really happened.<br>
+And yes, I brag about it as if it were a personal achievement.
+
+<p align="left">
+  <img src="amazon_keyboard_order.png" width="50%" alt="Amazon AULA F75 order history">
+</p>
 ---
 
 ## Business Problem
