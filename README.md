@@ -6,6 +6,14 @@ The project builds a cloud-based ELT pipeline using **PostgreSQL, Python, Google
 
 ---
 
+# Project Inspiration
+The idea for this project actually came from a personal online shopping experience. I once ordered an AULA F75 keyboard through Amazon specifically with Prime delivery, but the order was delayed for several days and eventually declared lost after multiple conversations with customer service. I was extremely disappointed and was planning on writing a horrible review. Luckily for Amazon, thanks to an awesome Amazon customer service rep, I was refunded the original amount and had a replacement order placed (for free).
+
+A few days later, the replacement arrived. And then a few days after that, somehow, the original “lost” package showed up too?! What started as a frustrating delivery experience ended with me being extremely satisfied, despite the fulfillment process itself going completely wrong. Suddenly the experience I was ready to rate horribly didn't feel so horrible anymore.
+
+That change in my own satisfaction made me curious about what actually drives customer satisfaction in an e-commerce experience, and which operational factors have the biggest impact on it. And that's where this project started.
+---
+
 ## Business Problem
 
 Customer satisfaction varies significantly across orders, but it is not immediately clear which operational and transactional factors are associated with higher or lower satisfaction.
