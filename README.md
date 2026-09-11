@@ -1,8 +1,6 @@
 # Customer Satisfaction & Operational Analytics Pipeline
 
-An end-to-end data engineering and analytics project analyzing the operational and transactional factors associated with customer satisfaction across approximately 100,000 e-commerce orders.
-
-The project builds a cloud-based ELT pipeline using **PostgreSQL, Python, Google BigQuery, dbt, SQL, and Power BI**, transforming raw e-commerce data into tested analytical models and an interactive business intelligence dashboard.
+An end-to-end ELT and analytics project analyzing 100K+ e-commerce orders to identify the operational factors associated with customer satisfaction, built using PostgreSQL, Python, BigQuery, dbt, and Power BI.
 
 ---
 
